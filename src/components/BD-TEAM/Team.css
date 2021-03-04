@@ -1,0 +1,11 @@
+.player-container{
+    width: 65%;
+}
+.cricket-container{
+    display: flex;
+}
+
+.players-cart{
+    width: 35%;
+    padding: 20px;
+}
